@@ -37,4 +37,4 @@ function newFlashCard (question: string, answer: string): FlashCard {
   }
 };
 
-export { FlashCard, newFlashCard }
+export { FlashCard, newFlashCard } 
